@@ -1,0 +1,11 @@
+Arrays.sort(arr);
+Vector<E> my = new Vector<>();
+my.size();
+my.clear();
+Collections.sort(,new Comparator<>(){})
+int S1 = Integer.parseInt(sc.nextLine(), 2);
+HashMap<String,Integer> hm = new HashMap<String,Integer>();
+TreeSet<String> ts = new TreeSet<String>();
+Arrays.fill(table1,0);
+
+The next problem of the one star questions that I have not done is UVA11309.
